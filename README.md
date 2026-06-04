@@ -39,3 +39,10 @@ This project is a Space Invaders–style arcade shooter game created in Unity. T
 - Avoid enemy bullets and survive as long as possible.
 
 ## Screenshots
+
+### Gameplay
+![Gameplay 1](gameplay1.png)
+
+![Gameplay 2](gameplay2.png)
+
+![Gameplay 3](gameplay3.png)
