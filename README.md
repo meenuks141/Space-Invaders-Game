@@ -41,8 +41,8 @@ This project is a Space Invaders–style arcade shooter game created in Unity. T
 ## Screenshots
 
 ### Gameplay
-![Gameplay 1](gameplay1.png)
+![Gameplay 1](Screenshots/gameplay1.png)
 
-![Gameplay 2](gameplay2.png)
+![Gameplay 2](Screenshots/gameplay2.png)
 
-![Gameplay 3](gameplay3.png)
+![Gameplay 3](Screenshots/gameplay3.png)
